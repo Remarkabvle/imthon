@@ -1,0 +1,46 @@
+footer {
+    margin-top: 90px;
+    background-color: #16697a;
+}
+
+
+
+.footer__lists {
+    padding: 50px 95px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.footer__list__item-heading {
+    color: #FFF;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 24px;
+    letter-spacing: 0.1px;
+    margin-bottom: 10px;
+}
+
+.footer__list__item-text {
+    color: #FFF;
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 24px;
+    letter-spacing: 0.2px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.footer__list__item-info {
+    color: #FFF;
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 24px;
+    letter-spacing: 0.2px;
+    width: 205px;
+    height: 29.25px;
+}
+
+.footer__latst-section {
+    display: flex;
+    gap: 5px;
+}
